@@ -60,3 +60,5 @@ pip install -r requirements.txt
 ```bash
 python main.py
 ```
+
+## [Click here to check out the implementation with Boto3](https://github.com/VajraM-dev/AWS-Cognito-Authentication-with-FastAPI/tree/withBoto)
